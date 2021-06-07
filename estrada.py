@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(110000)
+sys.setrecursionlimit(110000) # estrada obi 2020 segunda fase sênior
 
 
 def calc(index: int, actualpoint: float):
