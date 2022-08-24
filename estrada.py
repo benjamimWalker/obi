@@ -24,4 +24,4 @@ for c in range(int(input())):
 
 cidades.sort()
 calc(0, 0)
-print(f'{min(values):.2f}') #
+print(f'{min(values):.2f}')
